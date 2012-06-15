@@ -1,0 +1,23 @@
+{
+	"BundleType": "Application",
+	"BundleIdentifier": "kinectstrument",
+	"BundleVersion": "0.1b",
+	"AppIcon": {
+		"18x18": "icon.png"
+	},
+	"AppName": {
+		"en": "Kinectstrument"
+	},
+	"AppDescription": {
+		"en": "Spotify Kitchen Sink is a demo application for the Spotify Apps API."
+	},
+	"SupportedLanguages": [
+		"en"
+	],
+	"RequiredPermissions": [
+		"https://*",
+		"http://*"
+	],
+	"RequiredInterface": "1",
+	"VendorIdentifier": "com.mhd.kinectstrument"
+}
